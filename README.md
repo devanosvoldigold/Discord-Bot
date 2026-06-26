@@ -34,27 +34,12 @@ A modern and feature-rich Discord RPG bot built with Python, discord.py, and Mon
 - Pillow
 - aiohttp
 
----
-
-📂 Project Structure
-
-BOT/
-├── cogs/
-├── database/
-├── models/
-├── utils/
-├── assets/
-├── logs/
-├── storage/
-├── main.py
-
----
 
 🚀 Installation
 
 Clone the repository:
 
-git clone <repository-url>
+git clone repository-url
 cd BOT
 
 Install dependencies:
