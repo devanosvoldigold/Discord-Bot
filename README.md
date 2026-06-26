@@ -1,5 +1,7 @@
 # Discord-Bot
 A feature-rich Discord RPG bot built with Python, featuring classes, combat, dungeons, bosses, quests, inventory, equipment, guilds, and a persistent MongoDB database.
+
+
 🏰 Discord RPG Bot
 
 A modern and feature-rich Discord RPG bot built with Python, discord.py, and MongoDB. Create your character, choose a class, battle monsters, conquer dungeons, defeat powerful bosses, collect legendary equipment, and climb the global leaderboards.
